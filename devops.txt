@@ -3,3 +3,5 @@ Hello this is my github practice
 Devops is actually development abd operation working together
 
 Devops involves multiple tools like maven, tomcat, github, nexus
+
+Jenkins is Continuous Integration, Continuous Development, Continuous Delivery tool
