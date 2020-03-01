@@ -1,0 +1,2 @@
+Maven helps in building war,jar and ear file from the github codes
+Maven is a java based tool
