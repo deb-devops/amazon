@@ -1,2 +1,3 @@
 Hello this is my github practice
 
+Devops is actually development abd operation working together
